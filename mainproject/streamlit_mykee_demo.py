@@ -13,8 +13,8 @@ st.markdown(
 
 st.markdown(
     """<div style='white-space: normal;'>
-    This chatbot was only trained on product reviews of [Boat, realme, oneplus, U&I] and the response 
-    depends on product reviews by customers in the data.
+    This chatbot was only trained on product reviews of [Boat, realme, oneplus, U&I] ear phones and the response 
+    depends on product reviews and sentiment of customers in the data.
     </div><br><br>""",  
     unsafe_allow_html=True
 )
