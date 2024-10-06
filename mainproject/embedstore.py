@@ -31,9 +31,8 @@ def embed_documents(run_state):
         token=ASTRA_DB_APPLICATION_TOKEN,
         namespace=ASTRA_DB_NAMESPACE,)
 
-    store=run_state
     
-    if store==None:
+    if run_state is None:
         docs= convert_to_doc()
         inserted_ids = vector_store.add_documents(docs)
     else:

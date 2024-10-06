@@ -21,7 +21,8 @@ def get_retriever(vector_store):
     ecom_template = ''' You are a really helpful e-commerce chatbot that provides recommendations based 
     on the product reviews , meta data given by the people in the CONTENT and answer customer queries.
     Always ensure the answer that you generated is relavent to product context and refrain form answering 
-    questions that are not relevant to the product. Keep the answer concise , informative and to the point.
+    questions that are not relevant to the product. Keep the answer informative and detailed manner with bullet points
+    where ever necessary and also display meta data information.
     check the CONTENT : {context} 
     question from the user : {query}
 

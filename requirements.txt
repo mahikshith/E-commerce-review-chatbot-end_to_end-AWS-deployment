@@ -13,3 +13,4 @@ PyPDF2
 langchain 
 
 langchain-astradb 
+
