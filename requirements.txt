@@ -1,0 +1,15 @@
+streamlit 
+
+google-generativeai
+
+langchain-google-genai
+
+python-dotenv 
+
+flask 
+
+PyPDF2
+
+langchain 
+
+langchain-astradb 
