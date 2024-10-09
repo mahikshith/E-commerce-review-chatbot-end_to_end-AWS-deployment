@@ -24,6 +24,7 @@ if st.button("Get Response"):
     if query:
         # Send request to Flask API
         response = requests.post('http://localhost:5000/query', json={"query": query})
+        # edit this during EC2 with public-exposed IP
 
         if response.status_code == 200:
             result = response.json().get('response')
