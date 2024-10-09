@@ -5,7 +5,7 @@ from langchain_core.documents import Document
 
 def convert_to_doc():
 
-    df = pd.read_csv(r"C:\Users\mahik\Documents\Git_serious\e-commerce-chatbot-end_to_end\sample_date\flipkart_product_review.csv")
+    df = pd.read_csv(r"../sample_date/flipkart_product_review.csv")
 
     f_df = df[["product_title","review","summary"]]
 
