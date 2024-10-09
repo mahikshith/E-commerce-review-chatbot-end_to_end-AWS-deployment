@@ -1,4 +1,4 @@
-## E-commerce Review Chatbot - **end to end implementation**
+## E-commerce Review Chatbot - **end to end implementation with AWS**
 
 What if there is a LLM powered chatbot designed to provide personalized product recommendations and insights based purely  on customer reviews and their sentiments rather than product description.
 
