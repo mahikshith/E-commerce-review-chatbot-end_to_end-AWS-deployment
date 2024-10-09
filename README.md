@@ -15,3 +15,8 @@ The chatbot is deployed using Streamlit, offering an intuitive user interface wh
 it can be extended to support additional brands or languages in the future.
 
 Future work -- Flask API + AWS deployment.
+
+
+
+https://github.com/user-attachments/assets/c4515ee7-8835-4993-bf94-1ca5f3fdeecb
+
