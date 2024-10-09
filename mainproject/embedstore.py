@@ -30,7 +30,7 @@ def embed_documents(run_state):
         api_endpoint=ASTRA_DB_API_ENDPOINT,
         token=ASTRA_DB_APPLICATION_TOKEN,
         namespace=ASTRA_DB_NAMESPACE,)
-
+# Astra db data base id :   0a582d13-f1b1-4ab9-a137-14627ad24396
     
     if run_state is None:
         docs= convert_to_doc()
