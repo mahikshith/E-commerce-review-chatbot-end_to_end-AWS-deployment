@@ -1,5 +1,7 @@
 ## E-commerce Review Chatbot - **end to end implementation with AWS**
 
+#### Detailed project explanation video :  https://drive.google.com/file/d/17FeAEHYOKM4AFdKDUU_PDkh1s92C2cFG/view?usp=sharing
+
 What if there is a LLM powered chatbot designed to provide personalized product recommendations and insights based purely  on customer reviews and their sentiments rather than product description.
 
 I mean let's be honest we look at ratings but we can't read all the reviews (nobody has time to read'em). 
