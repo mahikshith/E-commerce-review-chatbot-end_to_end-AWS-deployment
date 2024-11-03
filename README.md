@@ -9,6 +9,7 @@ I mean let's be honest we look at ratings but we can't read all the reviews (nob
 so, what if we scrape the reviews of products given by people for the products under same catogery belong different companies and get honest answers be it positive or negative and make a decision to buy it or not.
 
 
+
 Roadmap : 
 
 > Scrape the pdt id , reviews ,sentiments and other info from e-commerce site  [used reviews for building embeddings , rest of the pdt info is used as meta data]
